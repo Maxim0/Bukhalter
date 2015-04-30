@@ -20,6 +20,3 @@ HEADERS  += dialog.h \
     number.h
 
 FORMS    += dialog.ui
-
-OTHER_FILES += \
-    embedded.txt
